@@ -35,6 +35,11 @@ below.
 
 ![freqarch](/images/freqarch.png)
 
+Below is a screenshot of the frequency relay simulator where sampling
+frequency, averaging block size, symmetry block size, waveform equation, and
+time duration (seconds) are passed as arguments.
+![freqweb](/images/freqweb.png)
+
 Each of these modules perform data computation using Java. The complete
 implementation of the frequency relay can be found
 [here](https://github.com/hjparker/frequency-relay).
