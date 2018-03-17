@@ -55,8 +55,11 @@ follows.
 
 ![fsm](/images/fsm.png)
 
-You can find the latest SystemJ compiler in
-[this](https://github.com/hjparker/systemj-release/releases) github repository.
+You can find a list of useful links below:
+
+- [SystemJ compiler](https://github.com/hjparker/systemj-release/releases).
+- [SystemJ manual]({{ site.baseurl }}{% link docs/SystemJ Manual.pdf %})
+- [Code examples](https://github.com/hjparker/systemj-demo)
 
 
 
