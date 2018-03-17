@@ -16,7 +16,7 @@ An overview of the frequency relay is show below:
 
 ![freq](/images/freq.png)
 
-The system consists of three main blocks:
+The system consists of three main modules:
 
 1. Moving averaging filter: The role of this filter is to remove noise in a raw
 	 data samples and enables detection of maxima and minima of input waveform.
@@ -27,11 +27,13 @@ The system consists of three main blocks:
 	 distance between the maximal and the minimal point of the input waveform at
 	 any given time
 
-These three main modules are originally developed in SystemJ and are also
-simulated on a desktop computer. In the simulated version, these modules run as
-a simple web-service, which can be consumed via http request on a web browser.
-A simplified view of the simulated version of the frequency relay is shown
-below.
+The main control-flow of the system is written in SystemJ's kernel statements
+that describe the system's reactivity and concurrency whereas the signal
+analysis part is implemented in Java.
+
+The frequency relay can be simulated on a desktop computer where the modules
+run as a simple web-service and consumed via http requests. A simplified view
+of the simulated version of the frequency relay is shown below.
 
 ![freqarch](/images/freqarch.png)
 
@@ -40,8 +42,7 @@ frequency, averaging block size, symmetry block size, waveform equation, and
 time duration (seconds) are passed as arguments.
 ![freqweb](/images/freqweb.png)
 
-Each of these modules perform data computation using Java. The complete
-implementation of the frequency relay can be found
+The complete implementation of the frequency relay can be found
 [here](https://github.com/hjparker/frequency-relay).
 
 
