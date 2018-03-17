@@ -56,7 +56,7 @@ follows.
 ![fsm](/images/fsm.png)
 
 You can find the latest SystemJ compiler in
-[this](https://github.com/hjparker/frequency-relay) github repository.
+[this](https://github.com/hjparker/systemj-release/releases) github repository.
 
 
 
