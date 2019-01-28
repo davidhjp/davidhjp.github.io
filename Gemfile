@@ -28,12 +28,4 @@ source "https://rubygems.org"
 # Performance-booster for watching directories on Windows
 #  gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-
-
-gem "nokogiri", ">= 1.8.5"
-gem "jekyll", ">= 3.6.3"
-gem "rubyzip", ">= 1.2.2"
-gem "ffi", ">= 1.9.24"
-
-
 gem "github-pages", group: :jekyll_plugins
