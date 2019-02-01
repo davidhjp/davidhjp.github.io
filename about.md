@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hello, my name is Heejong Park. I have worked at the University of Auckland for
+Hello, my name is David. I have worked at the University of Auckland for
 two years as a research fellow and software developer. My main research areas
 are formal languages and execution platforms for real-time embedded systems. 
 
