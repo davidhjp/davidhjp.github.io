@@ -11,8 +11,9 @@ __David H. Park__ received a B.E. degree in Computer Systems Engineering and a P
 
 ## Teaching
 - Sept 2016, Sept 2017 -- COMPSYS 704: Advanced Embedded Systems, University of Auckland, _Lecturer_. 
+- 2011 -- 2015 -- COMPSYS 701: Advanced Digital Systems Design, University of Auckland, _Graduate Teaching Assistant_. 
+- 2011 -- 2015 -- COMPSYS 704: Advanced Embedded Systems, University of Auckland, _Graduate Teaching Assistant_. 
 - 2011 -- 2015 -- COMPSYS 302: Design: Software Practice, University of Auckland, _Graduate Teaching Assistant_. 
-- 2011 -- 2015 -- COMPSYS 704: Design: Software Practice, University of Auckland, _Graduate Teaching Assistant_. 
 
 ## Research
 
