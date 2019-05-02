@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: David H. Park
 email: hj.park@ntu.edu.sg
-description: >- # this means to ignore newlines until "baseurl:"
-  A reseacher and a developer.
+#  description: >- # this means to ignore newlines until "baseurl:"
+#    A reseacher and a developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #  twitter_username: jekyllrb
