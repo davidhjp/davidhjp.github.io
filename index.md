@@ -18,8 +18,8 @@ __David H. Park__ received a B.E. degree in Computer Systems Engineering and a P
 ## Research
 
 - Formal languages for Globally Asynchronous Locally Synchronous (GALS) systems
-- Formal verifications for safety-critical systems
-- Cyber-physical systems
+- Formal verification for safety-critical systems
+- Cyber-physical system
 - Digital twin
 
 ## Professional Experience
